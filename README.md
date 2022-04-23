@@ -17,6 +17,6 @@
 <a href="https://www.instagram.com/linekreis/" target="blank"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </p>
   
- <h3 align="left"> Programing Languages / Databases that i'm working / going to work with in the future </h3>
+<h3 align="up"> Programing Languages / Databases that i'm working / going to work with in the future </h3>
 <p align="left">
- <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
