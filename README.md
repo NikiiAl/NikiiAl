@@ -3,13 +3,14 @@
 <div> 🌱 I’m currently learning Object Oriented Programming in Python </div>
 <div> 💞️ I’m looking to collaborate on anything that i think i'm capable to collaborate with </div>
 
-# Stats 
-<div>
-  <a href="https://github.com/NikiReis" >
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=calm" />
-  <img align="left" height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&theme=calm" />
-</div>
+# Stats
 
+
+<div align="left">
+  <a href="https://github.com/NikiReis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=calm"/>
+</div>
 
 <h3 align="left"> Social Medias </h3>
 <p align="left">
