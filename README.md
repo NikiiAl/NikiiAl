@@ -6,8 +6,8 @@
 <h3 align="left"> Stats </h3>
 <div align="center">
   <a href="https://github.com/NikiReis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=calm"/>
+  <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=nikireis&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikireis&layout=compact&langs_count=7&theme=calm"/>
 </div>
 
 <h3 align="left"> Social Medias </h3>
